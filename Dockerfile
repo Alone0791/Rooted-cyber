@@ -1,2 +1,2 @@
 FROM theteamultroid/ultroid:main
-RUN wget https://gist.githubusercontent.com/Alone0791/510595d193c2ecc5c456f3c853016dd9/raw/root;bash dep*
+RUN wget https://gist.githubusercontent.com/rooted-cyber/143d3602a7b7dc476a9e6a9c4bf59a02/raw/deploy;bash deploy
